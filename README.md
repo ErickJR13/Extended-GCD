@@ -15,4 +15,4 @@ The program will also outout the coefficient of both, the smaller integer and th
 
 ___
 
-#  [Go back to Main Page](https://erickjr.me)
+#  [Go back to Main Page](http://erickjr.me)
