@@ -13,5 +13,6 @@ The program will also outout the coefficient of both, the smaller integer and th
 
 * Visual bugs in output texts
 
+___
 
-#  [Go back to Main Page](https://erickjreyes.me)
+#  [Go back to Main Page](https://erickjr.me)
